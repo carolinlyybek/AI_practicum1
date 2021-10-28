@@ -1,0 +1,8 @@
+c 1 --> 2 --> 3 --> 4 --> 5 
+p sp 5 4
+c graph contains 5 nodes and 4 arcs
+c
+a 1 2 1
+a 2 3 1
+a 3 4 1
+a 4 5 1
