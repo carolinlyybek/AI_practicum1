@@ -1,0 +1,12 @@
+c 9th DIMACS Implementation Challenge: Shortest Paths
+c http://www.dis.uniroma1.it/~challenge9
+c TIGER/Line nodes coords for graph USA-road-d.NY
+c
+p aux sp co 5
+c graph contains 5 nodes
+c
+v 1 0 0
+v 2 2 0
+v 3 4 0
+v 4 3 0.1
+v 5 6 0
